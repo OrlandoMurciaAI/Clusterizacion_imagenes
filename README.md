@@ -1,4 +1,6 @@
 # Clusterizacion (agrupamiento) de Imagenes utilizando redes neuronales y algoritmos no supervizados. 
+![salida](https://user-images.githubusercontent.com/91997349/213610072-951f9e93-7544-4cc0-ba08-e4601cebb085.png)
+
 ¿Estás interesado en aprender cómo agrupar imágenes en clusters utilizando el poderoso algoritmo no supervisado de k-means? Entonces, este notebook autodidactico es para ti. Con el framework Tensorflow como backend, este tutorial te guiará paso a paso en el proceso de agrupamiento de imágenes mediante el uso de sus centroides.
 
 Pero eso no es todo, también aprenderás a utilizar la API de Keras para aprovechar el transfer learning y extraer características valiosas de un conjunto de datos. Además, descubrirás cómo reducir la dimensionalidad de las imágenes mediante PCA y cómo esto afecta la velocidad de entrenamiento e inferencia.
